@@ -1,0 +1,3 @@
+<?php
+// Simulate checkout logic
+?>

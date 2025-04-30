@@ -1,0 +1,1 @@
+document.getElementById("products").innerHTML = "<p>Loading products...</p>";
